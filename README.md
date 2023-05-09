@@ -7,7 +7,7 @@ The page will reload when you make changes.\
 
 ### `npm install`
 
-Installs required dependencies and adds the node_modules and package.json file
+Installs required dependencies and adds the node_modules and dependencies
 
 
 
