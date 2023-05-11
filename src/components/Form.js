@@ -3,7 +3,7 @@ import "./Form.css";
 const Form = () => {
     const myFunction = (event) => {
         event.preventDefault();
-        console.log("poop");
+        console.log("formSubmitHandler as been invoked/called!");
     }
     return (
       <div className="form-container">
